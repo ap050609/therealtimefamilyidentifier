@@ -1,0 +1,11 @@
+.heading_div
+{
+    float: none ;
+    background: maroon ;
+    color: grey ;
+    padding: 10px ;
+    font-family:'Nanum Pen Script', cursive;
+    box-shadow: 5px 5px 5px navy;
+    font-size: x-large;
+    border-radius: 1000px;
+}
