@@ -1,11 +1,19 @@
 .heading_div
 {
     float: none ;
-    background: maroon ;
-    color: grey ;
+    background: rgb(0, 0, 50) ;
+    color: maroon ;
     padding: 10px ;
     font-family:'Nanum Pen Script', cursive;
-    box-shadow: 5px 5px 5px navy;
+    box-shadow: 5px 5px 5px maroon;
     font-size: x-large;
     border-radius: 1000px;
+}
+
+canvas
+{
+    border: 5px solid maroon;
+    border-radius: 0spx;
+    box-shadow: 5px 5px 5px rgb(0, 0, 50);
+    margin-top: 150px;
 }
